@@ -1,0 +1,3 @@
+Manipular o banco de dados que contém os dados dos alunos
+Manipulação de atividades
+Organização e apresentação das notas dos alunos
